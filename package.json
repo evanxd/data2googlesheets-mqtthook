@@ -1,0 +1,25 @@
+{
+  "name": "data2googlesheets-mqtthook",
+  "description": "A MQTThook to store sensors data from an IoT device in a Google Sheets sheet.",
+  "version": "0.0.0",
+  "author": {
+    "name": "Evan Tseng",
+    "email": "evan@tseng.io"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/evanxd/data2googlesheets-mqtthook"
+  },
+  "keywords": [
+    "iot",
+    "internet-of-things",
+    "mqtt",
+    "mqtthook",
+    "wot",
+    "web-of-things",
+    "webhook"
+  ],
+  "dependencies": {
+    "mqtthook": "^0.0.8"
+  }
+}
